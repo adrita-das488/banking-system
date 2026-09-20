@@ -13,7 +13,7 @@ Usage:
 
 - Enter your name (new users can create an account and set a PIN).
 - Choose from the menu: 1 Balance, 2 Deposit, 3 Withdraw, 4 Exit.
-- Admin login (admin123 / 123456) closes the program and shows all balances.
+- Admin login (admin123,pin:123456) closes the program and shows all balances.
 
 Note:
 
